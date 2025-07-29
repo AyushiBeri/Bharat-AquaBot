@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>Smart AI system for detecting and collecting plastic waste from rivers using real-time vision</i><br>
+  <i>Smart AI system for detecting and collecting floating plastic waste from rivers using real-time vision</i><br>
 
 </p>
 
