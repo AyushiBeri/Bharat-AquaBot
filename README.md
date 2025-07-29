@@ -38,8 +38,9 @@
 
 ---
 
-## 🔗 Links  
+## 🔗 Links 
 -  [CAD Design](https://a360.co/3BPYUD2)
+-  [Detailed Discription](https://drive.google.com/file/d/1hVy4inpwQ6ZkddebAszopnK1IX8GA4si/view)
 
 ---
 
