@@ -38,12 +38,11 @@
 
 ---
 
-## 🔗 Links 
--  [Code](https://github.com/AyushiBeri)  
+## 🔗 Links  
 -  [CAD Design](https://a360.co/3BPYUD2)
 
 ---
 
 <p align="center">
-  <i>Cleaning our rivers. One plastic bottle at a time. ♻️</i>
+  <i>LET'S MAKE OUR RIVERS BREATH AGAIN</i>
 </p>
